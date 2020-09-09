@@ -2,4 +2,6 @@
 using namespace std;
  
 int main() {
+    cout << "I love coding!" << endl;
  
+
